@@ -1,5 +1,6 @@
 # enterprise-soc-homelab
 <img width="710" height="1062" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/7b396505-a1ec-4de6-a281-9847b8259e7b" />
+
 This homelab  demonstrates
 
 <img width="2557" height="1317" alt="ProxmoxDashboard" src="https://github.com/user-attachments/assets/f0cdc0b2-4e04-4847-a83b-b925fa438fb2" />
